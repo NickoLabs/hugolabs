@@ -48,7 +48,7 @@ googleAnalytics = ""
   [params.navigation]
     brand = "HugoLabs"
     # Optional logo as brand stored in static/
-    logo = "Hugo-NickoLabs.png"
+    logo = "https://nickolabs.com/image/Hugo-NickoLabs.png"
     services = "Services"
     portfolio = "Portfolio"
     about = "About"
