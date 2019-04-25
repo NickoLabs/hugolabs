@@ -18,7 +18,7 @@ googleAnalytics = ""
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "Nickolas Simard"
-  description = "Just a testing Hugo website"
+  description = "Just a testing Hugo website par NickoLabs.com"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
@@ -68,8 +68,8 @@ googleAnalytics = ""
 
     # postpended links
     [[menu.postpend]]
-      url = "http://gohugo.io"
-      name = "External link"
+      url = "https://nickolabs.com"
+      name = "Retour sur NickoLabs.com"
       weight = 10
 
 
@@ -77,9 +77,9 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Welcome To Our"
-    subtitle = "HUGO Demo website!"
-    buttonText = "Skip to Blog"
+    title = "Bienvenu sur le site"
+    subtitle = "HUGO DEMO!"
+    buttonText = "Passer au Blog"
 
 
   # Services section
