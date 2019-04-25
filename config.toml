@@ -46,7 +46,7 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "HugoLabs"
+    brand = "<span>Nicko</span>HugoLabs"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
     services = "Services"
