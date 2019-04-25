@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://example.org/"
 languageCode = "fr-CA"
-title = "HugoLabs"
+title = "HugoLabs - DEMO website"
 theme = "hugolabs-theme"
 
 # Enter your tracking code to enable Google Analytics
@@ -77,9 +77,9 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Welcome To Our Studio!"
-    subtitle = "It's nice to meet you"
-    buttonText = "Tell me more"
+    title = "Welcome To Our"
+    subtitle = "HUGO Demo website!"
+    buttonText = "Skip to Blog"
 
 
   # Services section
@@ -215,7 +215,7 @@ She worked at Pied Piper for years until they went belly up."""
     [params.blog]
       enable = true
       title = "Blog"
-      subtitle = "Live from our imported Wordpress blog!"
+      subtitle = "Imported from a Jekyll export of NickoLabs.com"
 
   # Client section
     [params.clients_list]
