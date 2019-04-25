@@ -77,7 +77,7 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Bienvenu sur le site"
+    title = "Bienvenue sur le site"
     subtitle = "HUGO DEMO!"
     buttonText = "Passer au Blog"
 
