@@ -41,9 +41,9 @@
           </li>
         {{ end }}
 
-        {{ if .Site.Params.portfolio.enable }}
+        {{ if .Site.Params.blog.enable }}
           <li>
-            <a class="page-scroll" href="{{ .Site.BaseURL }}#portfolio">{{ with .Site.Params.navigation.portfolio }}{{ . }}{{ end }}</a>
+            <a class="page-scroll" href="{{ .Site.BaseURL }}#blog">{{ with .Site.Params.navigation.blog }}{{ . }}{{ end }}</a>
           </li>
         {{ end }}
 
@@ -59,9 +59,9 @@
           </li>
         {{ end }}
 
-        {{ if .Site.Params.blog.enable }}
+        {{ if .Site.Params.portfolio.enable }}
           <li>
-            <a class="page-scroll" href="{{ .Site.BaseURL }}#blog">{{ with .Site.Params.navigation.blog }}{{ . }}{{ end }}</a>
+            <a class="page-scroll" href="{{ .Site.BaseURL }}#portfolio">{{ with .Site.Params.navigation.portfolio }}{{ . }}{{ end }}</a>
           </li>
         {{ end }}
 
