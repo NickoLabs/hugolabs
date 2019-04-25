@@ -11,8 +11,8 @@
       {{ partial "services.html" . }}
     {{ end }}
 
-    {{ if .Site.Params.portfolio.enable }}
-      {{ partial "portfolio.html" . }}
+    {{ if .Site.Params.blog.enable }}
+      {{ partial "blog.html" . }}
     {{ end }}
 
     {{ if .Site.Params.about.enable }}
@@ -27,8 +27,8 @@
       {{ partial "clients.html" . }}
     {{ end }}
 
-    {{ if .Site.Params.blog.enable }}
-      {{ partial "blog.html" . }}
+    {{ if .Site.Params.portfolio.enable }}
+      {{ partial "portfolio.html" . }}
     {{ end }}
 
     {{ if .Site.Params.contact.enable }}
