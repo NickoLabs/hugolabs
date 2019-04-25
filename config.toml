@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://hugolabs-demo.netlify.com/"
 languageCode = "en-us"
-title = "HugoLabs - DEMO website"
+title = "HugoLabs - Hugo Demo website"
 theme = "hugolabs-theme"
 
 # Enter your tracking code to enable Google Analytics
