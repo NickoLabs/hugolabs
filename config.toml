@@ -247,10 +247,10 @@ She worked at Pied Piper for years until they went belly up."""
   # Contact section
   [params.contact]
     enable = true
-    title = "Contact us"
-    subtitle  = "Lorem ipsum dolor sit amet consectetur."
-    buttonText = "Send message"
-    # netlify = true
+    title = "Contact"
+    subtitle  = "Même si c'est un site démo, le formulaire fonctionne quand même."
+    buttonText = "Envoyer le message"
+    netlify = true
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -276,25 +276,25 @@ She worked at Pied Piper for years until they went belly up."""
     #thanks = "Thank you for awesomely contacting us."
     #error = "Message could not be send. Please contact us at mail@example.com instead."
 
-    [params.contact.captcha]
-      # sitekey = ""
+    # [params.contact.captcha]
+    #   sitekey = "6LcTTaAUAAAAAEWuRabYwIpTMczSf0vYMZqzZlX9"
 
     # 'warning' defines error messages for invalid inputs
     [params.contact.form.name]
-      text = "Your Name *"
-      warning = "Please enter your name."
+      text = "Nom complet *"
+      warning = "Veuillez entrer votre nom complet."
 
     [params.contact.form.email]
-      text = "Your Email *"
-      warning = "Please enter your email address."
+      text = "Courriel *"
+      warning = "Veuillez entrer votre courriel."
 
     [params.contact.form.phone]
-      text = "Your Phone *"
-      warning = "Please enter your phone number."
+      text = "Téléphone *"
+      warning = "Veuillez entrer votre téléphone."
 
     [params.contact.form.message]
-      text = "Your Message *"
-      warning = "Please enter a message."
+      text = "Message *"
+      warning = "Veuillez entrer votre message."
 
       # Add optional form fields to identify contact forms
       #[[params.contact.form.hidden]]
@@ -312,23 +312,23 @@ She worked at Pied Piper for years until they went belly up."""
 
     [[params.footer.social]]
       icon = "fa-twitter"
-      link = "#"
+      link = "https://twitter.com/nickolabs"
       title = "Twitter"
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      link = "#"
+      link = "https://www.facebook.com/NickoLabs/"
       title = "Facebook"
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      link = "#"
+      link = "https://www.linkedin.com/in/nickolabs/"
       title = "LinkedIn"
 
     [[params.footer.quicklinks]]
-      text = "Privacy Policy"
-      link = "#"
+      text = "Avis légaux et vie privée"
+      link = "https://nickolabs.com/avis-legaux"
 
-    [[params.footer.quicklinks]]
-      text = "Terms of Use"
-      link = "#"
+    # [[params.footer.quicklinks]]
+    #   text = "Terms of Use"
+    #   link = "#"
