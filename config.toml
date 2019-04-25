@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://hugolabs-demo.netlify.com/"
 languageCode = "fr-CA"
 title = "HugoLabs - DEMO website"
 theme = "hugolabs-theme"
