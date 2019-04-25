@@ -69,7 +69,7 @@ googleAnalytics = ""
     # postpended links
     [[menu.postpend]]
       url = "https://nickolabs.com"
-      name = "Retour sur NickoLabs.com"
+      name = "NickoLabs.com"
       weight = 10
 
 
