@@ -65,18 +65,18 @@ $('form[id=contactForm]').submit(function(){
 $.validate({
   modules : 'html5, toggleDisabled'
 });
-
-function onContactCaptcha($form) {
-  $('form#contactForm').submit();
-}
-
-function checkReCaptcha() {
-  if (typeof grecaptcha === "undefined") {
-    $('.captcha-error').show();
-    setTimeout(checkReCaptcha, 200);
-  } else {
-    $('.captcha-error').hide();
-    $('.g-recaptcha-filler').hide();
-    $('.g-recaptcha').attr('disabled', true);
-  }
-}
+//
+// function onContactCaptcha($form) {
+//   $('form#contactForm').submit();
+// }
+//
+// function checkReCaptcha() {
+//   if (typeof grecaptcha === "undefined") {
+//     $('.captcha-error').show();
+//     setTimeout(checkReCaptcha, 200);
+//   } else {
+//     $('.captcha-error').hide();
+//     $('.g-recaptcha-filler').hide();
+//     $('.g-recaptcha').attr('disabled', true);
+//   }
+// }
