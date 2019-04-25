@@ -1,6 +1,6 @@
 # Site settings
-baseurl = "https://hugolabs-demo.netlify.com/public"
-languageCode = "fr-CA"
+baseurl = "https://hugolabs-demo.netlify.com/"
+languageCode = "en-us"
 title = "HugoLabs - DEMO website"
 theme = "hugolabs-theme"
 
