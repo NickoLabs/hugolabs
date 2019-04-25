@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>email marketing on HugoLabs - DEMO website</title>
+    <link>https://nickolabs.github.io/tags/email-marketing/</link>
+    <description>Recent content in email marketing on HugoLabs - DEMO website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-CA</language>
+    <lastBuildDate>Fri, 03 Jun 2011 12:16:44 -0400</lastBuildDate>
+    
+	<atom:link href="https://nickolabs.github.io/tags/email-marketing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Est-ce que les campagnes d&amp;rsquo;infolettres influencent votre position sur Google?</title>
+      <link>https://nickolabs.github.io/blog/2011-06-03-est-ce-que-les-campagnes-dinfolettres-influent-sur-votre-positionnement-google/</link>
+      <pubDate>Fri, 03 Jun 2011 12:16:44 -0400</pubDate>
+      
+      <guid>https://nickolabs.github.io/blog/2011-06-03-est-ce-que-les-campagnes-dinfolettres-influent-sur-votre-positionnement-google/</guid>
+      <description>Un article récemment publié par Jake Ludington, de LockerGnome, faisait état du fait que les résultats dans le moteur de recherche Google étaient influencés par la réputation des courriels. L&amp;rsquo;article intitulé « Email Reputation Causes Penalties in Google Search Results » (La réputation des campagnes de courriels influencent les résultats de recherche de Google) a provoqué beaucoup de questionnement dans la communauté de campagnes d&amp;rsquo;infolettres.
+D&amp;rsquo;après Jake, si vos abonnés @gmail n&amp;rsquo;ouvrent pas vos infolettres sur une base régulière, votre réputation Google (le Google Page Rank) en prendra un coup et diminuera.</description>
+    </item>
+    
+  </channel>
+</rss>

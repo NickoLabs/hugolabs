@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on HugoLabs - DEMO website</title>
+    <link>https://nickolabs.github.io/blog/</link>
+    <description>Recent content in Blogs on HugoLabs - DEMO website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-CA</language>
+    <lastBuildDate>Tue, 16 Apr 2019 14:29:14 -0400</lastBuildDate>
+    
+	<atom:link href="https://nickolabs.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mise à jour du site web</title>
+      <link>https://nickolabs.github.io/blog/2019-04-16-mise-a-jour-du-site-web-2019/</link>
+      <pubDate>Tue, 16 Apr 2019 14:29:14 -0400</pubDate>
+      
+      <guid>https://nickolabs.github.io/blog/2019-04-16-mise-a-jour-du-site-web-2019/</guid>
+      <description>Alors vous le voyez certainement, le site a été refait. Ça a fait du bien, il était loin d&amp;rsquo;être représentatif de mes projets récents!
+Le contenu a été simplifié également. Les services sont bien expliqués et j&amp;rsquo;ai aussi ajouté ceux de mes partenaires pour le SEO et la composition de musique originale, qui est une nouveautés en partenariat avec Mario Lévesque. J&amp;rsquo;espère avoir quelques démos à vous faire entendre éventuellement!</description>
+    </item>
+    
+    <item>
+      <title>Nouveau site? Vraiment!</title>
+      <link>https://nickolabs.github.io/blog/2013-01-29-nouveau-site-vraiment/</link>
+      <pubDate>Tue, 29 Jan 2013 09:52:16 -0400</pubDate>
+      
+      <guid>https://nickolabs.github.io/blog/2013-01-29-nouveau-site-vraiment/</guid>
+      <description>Ce fut long et j&amp;rsquo;avouerai même pénible (car on a tous des horaires chargés), mais mon nouveau site est finalement en ligne.
+Pourquoi cette mise à jour? Parce que je suis maintenant Freelance depuis presque 2 ans et que j&amp;rsquo;avais besoin d&amp;rsquo;une plateforme pour vendre mes services, pas seulement un laboratoire d’essais; ce qu&amp;rsquo;était mon ancien site. J&amp;rsquo;avais également besoin d&amp;rsquo;un endroit pour afficher ma nouvelle image.
+Je serai ainsi mieux à même de répondre aux besoins de mes clients de façon efficace et rapide.</description>
+    </item>
+    
+    <item>
+      <title>Est-ce que les campagnes d&amp;rsquo;infolettres influencent votre position sur Google?</title>
+      <link>https://nickolabs.github.io/blog/2011-06-03-est-ce-que-les-campagnes-dinfolettres-influent-sur-votre-positionnement-google/</link>
+      <pubDate>Fri, 03 Jun 2011 12:16:44 -0400</pubDate>
+      
+      <guid>https://nickolabs.github.io/blog/2011-06-03-est-ce-que-les-campagnes-dinfolettres-influent-sur-votre-positionnement-google/</guid>
+      <description>Un article récemment publié par Jake Ludington, de LockerGnome, faisait état du fait que les résultats dans le moteur de recherche Google étaient influencés par la réputation des courriels. L&amp;rsquo;article intitulé « Email Reputation Causes Penalties in Google Search Results » (La réputation des campagnes de courriels influencent les résultats de recherche de Google) a provoqué beaucoup de questionnement dans la communauté de campagnes d&amp;rsquo;infolettres.
+D&amp;rsquo;après Jake, si vos abonnés @gmail n&amp;rsquo;ouvrent pas vos infolettres sur une base régulière, votre réputation Google (le Google Page Rank) en prendra un coup et diminuera.</description>
+    </item>
+    
+    <item>
+      <title>Des solutions pour vendre, informer et réseauter efficacement sur le Web grâce à NickoLabs</title>
+      <link>https://nickolabs.github.io/blog/2011-05-24-des-solutions-pour-vendre-informer-et-reseauter-efficacement-sur-le-web/</link>
+      <pubDate>Tue, 24 May 2011 14:41:40 -0400</pubDate>
+      
+      <guid>https://nickolabs.github.io/blog/2011-05-24-des-solutions-pour-vendre-informer-et-reseauter-efficacement-sur-le-web/</guid>
+      <description>﻿Bienvenue sur le nouveau site NickoLabs. Nous l’avons créé spécialement pour vous qui voulez vendre, informer et recruter efficacement. Quel que soit votre besoin, nous avons une solution adaptée en fonction de votre projet et de votre budget.
+Stratégiquement, il y a trois éléments nécessaires au succès d’une démarche Web : Cibler, cibler et cibler votre clientèle.
+Nous vous aiderons pour établir le plan le plus efficace afin de mettre en valeur votre expérience client et optimiser votre présence dans les réseaux pertinents.</description>
+    </item>
+    
+  </channel>
+</rss>

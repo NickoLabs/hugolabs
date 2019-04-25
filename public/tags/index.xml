@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on HugoLabs - DEMO website</title>
+    <link>https://nickolabs.github.io/tags/</link>
+    <description>Recent content in Tags on HugoLabs - DEMO website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-CA</language>
+    <lastBuildDate>Fri, 03 Jun 2011 12:16:44 -0400</lastBuildDate>
+    
+	<atom:link href="https://nickolabs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>email marketing</title>
+      <link>https://nickolabs.github.io/tags/email-marketing/</link>
+      <pubDate>Fri, 03 Jun 2011 12:16:44 -0400</pubDate>
+      
+      <guid>https://nickolabs.github.io/tags/email-marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google</title>
+      <link>https://nickolabs.github.io/tags/google/</link>
+      <pubDate>Fri, 03 Jun 2011 12:16:44 -0400</pubDate>
+      
+      <guid>https://nickolabs.github.io/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seo</title>
+      <link>https://nickolabs.github.io/tags/seo/</link>
+      <pubDate>Fri, 03 Jun 2011 12:16:44 -0400</pubDate>
+      
+      <guid>https://nickolabs.github.io/tags/seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nouvelles</title>
+      <link>https://nickolabs.github.io/tags/nouvelles/</link>
+      <pubDate>Tue, 24 May 2011 14:41:40 -0400</pubDate>
+      
+      <guid>https://nickolabs.github.io/tags/nouvelles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
