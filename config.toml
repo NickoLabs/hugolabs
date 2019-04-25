@@ -18,7 +18,7 @@ googleAnalytics = ""
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "Nickolas Simard"
-  description = "Just a testing Hugo website par NickoLabs.com"
+  description = "Un site web Demo de la technologie HUGO par NickoLabs.com"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
@@ -48,7 +48,7 @@ googleAnalytics = ""
   [params.navigation]
     brand = "HugoLabs"
     # Optional logo as brand stored in static/
-    ogo = "Hugo-NickoLabs.png"
+    logo = "Hugo-NickoLabs.png"
     services = "Services"
     portfolio = "Portfolio"
     about = "About"
