@@ -1,8 +1,8 @@
 // Smooth scrolling via animate()
 $(document).ready(function(){
-  if ($('.g-recaptcha')) {
-    checkReCaptcha()
-  }
+  // if ($('.g-recaptcha')) {
+  //   checkReCaptcha()
+  // }
 
   $("a").on('click', function(event) {
     if (this.hash && window.location.pathname == "/") {
