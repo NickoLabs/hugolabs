@@ -1,8 +1,8 @@
 # Site settings
 baseurl = "https://example.org/"
-languageCode = "en-us"
-title = "Agency"
-theme = "hugo-agency-theme"
+languageCode = "fr-CA"
+title = "HugoLabs"
+theme = "hugolabs-theme"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -17,8 +17,8 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Your name"
-  description = "Your description"
+  name = "Nickolas Simard"
+  description = "Just a testing Hugo website"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
@@ -46,13 +46,14 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "The Agency"
+    brand = "HugoLabs"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
     services = "Services"
     portfolio = "Portfolio"
     about = "About"
     team = "Team"
+    blog = "Blog"
     contact = "Contact"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
@@ -124,7 +125,7 @@ googleAnalytics = ""
       buttonText = "Close project"
 
 
-    # About section
+  # About section
   [params.about]
     enable = true
     title = "About"
@@ -210,6 +211,11 @@ She worked at Pied Piper for years until they went belly up."""
         ["fa-facebook", "#"],
         ["fa-linkedin", "#"]
       ]
+    # Blog section
+    [params.blog]
+      enable = true
+      title = "Blog"
+      subtitle = "Live from our imported Wordpress blog!"
 
   # Client section
     [params.clients_list]
@@ -264,7 +270,7 @@ She worked at Pied Piper for years until they went belly up."""
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "your@email.com"
+    email = "nicko@nickolabs.com"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
