@@ -1,0 +1,42 @@
+baseURL = "http://example.org/"
+languageCode = "fr-CA"
+title = "HugoLabs"
+disqusShortname = ""
+googleAnalytics = ""
+theme = "hugo-agency-theme"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+ [params]
+  avatar = "profile.png"
+  author = "Author Name"
+  description = "Describe your website"
+
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "username"
+  Email         = "email@example.com"
+  Twitter       = "username"
+  LinkedIn      = "username"
+  Stackoverflow = "username"
+  Medium        = "username"
+  Telegram      = "username"
+
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/resume/"
