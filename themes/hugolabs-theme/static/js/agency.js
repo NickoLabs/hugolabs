@@ -64,7 +64,7 @@ $('form[id=contactForm]').submit(function(){
 // Contact form validation
 $.validate({
   modules : 'html5, toggleDisabled',
-  
+
     onError : function($form) {
       alert('Validation of form '+$form.attr('id')+' failed!');
     },
@@ -81,6 +81,15 @@ $.validate({
     onElementValidate : function(valid, $el, $form, errorMess) {
       console.log('Input ' +$el.attr('name')+ ' is ' + ( valid ? 'VALID':'NOT VALID') );
     }
+});
+
+$('input')
+.on('beforeValidation', function(value, lang, config) {
+  console.log('Input "'+this.name+'" is about to become validated');
+  // Call $(this).attr('data-validation-skipped', 1); to prevent validation
+})
+.on('validation', function(evt, valid) {
+  console.log('Input "'+this.name+'" is ' + (valid ? 'VALID' : 'NOT VALID'));
 });
 //
 // function onContactCaptcha($form) {
