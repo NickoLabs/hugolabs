@@ -290,7 +290,7 @@ She worked at Pied Piper for years until they went belly up."""
 
     [params.contact.form.phone]
       text = "Téléphone *"
-      warning = "Veuillez entrer votre téléphone."
+      warning = "Veuillez entrer votre téléphone (Ex: 4185551234)."
 
     [params.contact.form.message]
       text = "Message *"
