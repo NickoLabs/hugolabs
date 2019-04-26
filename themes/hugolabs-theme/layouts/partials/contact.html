@@ -72,7 +72,7 @@
                     Thank you for contacting us.
                   {{ end }}
                 </div>
-                <div class="captcha-error text-danger" id="captcha-error">
+                <div class="captcha-error text-danger" id="captcha-error" style="display:none;">
                   Message is not sendable due to captcha not loadable. Please contact us at {{ (or $contact.email .Site.Params.email) -}}.
                 </div>
                 <div class="text-danger" id="error" style="display:none;">
