@@ -63,7 +63,7 @@ $('form[id=contactForm]').submit(function(){
 
 // Contact form validation
 $.validate({
-  modules : 'html5, toggleDisabled',
+  modules : 'html5',
 
     onError : function($form) {
       alert('Validation of form '+$form.attr('id')+' failed!');
